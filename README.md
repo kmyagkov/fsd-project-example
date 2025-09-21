@@ -1,3 +1,5 @@
+Feature-sliced design project example
+
 ## Getting Started
 
 First, run the development server:
